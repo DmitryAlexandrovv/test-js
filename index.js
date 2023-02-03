@@ -1,5 +1,13 @@
 function main() {
-  const text = "Hello world";
+  const isMyFirstProgram = true;
+  
+  if (isMyFirstProgram) {
+      const text = "Hello world";
 
-  console.log(text);
+      console.log(text);
+  } else {
+      const text = "Goodbye world";
+
+      console.log(text);
+  }
 }
