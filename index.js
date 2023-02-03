@@ -1,3 +1,5 @@
-const text = "Hello world";
+function main() {
+  const text = "Hello world";
 
-console.log(text);
+  console.log(text);
+}
